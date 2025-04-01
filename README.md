@@ -1,5 +1,3 @@
-<a id="readme-top"></a>
-
 # Exercises on Data Structures
 
 ## 📌 Introduction
@@ -7,17 +5,17 @@
 This repository contains a collection of exercises to practice implementing and understanding various data structures and their operations. The goal is to improve problem-solving skills and gain a deeper understanding of the complexities associated with each structure.
 
 ## 📂 Table of Contents
-- [Getting Started](#getting-started)
+[Getting Started](#-getting-started)
 
-[Data Structures](#data-structure)
+[Data Structures](#-data-structures)
 
-[Sorting Algorithms](#sorting-algorithms)
+[Sorting Algorithms](#-sorting-algorithms)
 
-[Complexity Analysis](#complexity-analysis)
+[Complexity Analysis](#-complexity-analysis)
 
-[Contributing](#contributing)
+[Contributing](#-contributing)
 
-[License](#license)
+[License](#-license)
 
 ## 🚀 Getting Started
 
