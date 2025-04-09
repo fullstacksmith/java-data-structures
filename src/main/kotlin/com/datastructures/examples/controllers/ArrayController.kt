@@ -19,6 +19,11 @@ class ArrayController(private val arrayService: ArrayService) {
         return ResponseEntity.ok(response)
     }
 
+    @PostMapping("/n_numbers")
+    fun n_numbers_procesor(@RequestBody request: ArrayRequest): ResponseEntity<Map<String, Any>> {
+        return ResponseEntity.ok(arrayService.n_random_numbers((request.numbers)))
+    }
+
 
 }
 
